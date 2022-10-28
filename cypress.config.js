@@ -8,4 +8,5 @@ module.exports = defineConfig({
       // baseUrl: 'https://docs.cypress.io/',
       // excludeSpecPattern: '**/examples/*'
   },
+    projectId: "pcjxum"
 });
